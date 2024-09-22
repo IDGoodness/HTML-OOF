@@ -1,0 +1,27 @@
+.navbar{
+    background-color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 25px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+table {
+    border-spacing: 15px;
+}
+
+.thhead {
+    padding-left: 10px;
+}
+
+.th1 {
+    padding-left: 130px;
+    padding-right: 50px;
+}
+
+.home {
+    background-image: url();
+}
